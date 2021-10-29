@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-family: 'Rampart One', cursive;
+    text-align: center;
+}
+p{
+    font-family: 'Henny Penny', cursive;
+}
+.fab{
+    font-size: 2vw;
+    color: chartreuse;
+    border: solid 1px black;
+    background-color: black;
+    padding: 30px;
+    border-radius: 200px;
+    margin-right: 70vw;
+}
+button{
+    padding: 15px;
+    border-radius: 60px;
+    background-color: chartreuse;
+}
+nav{
+    background-color: yellow;
+    width: 100vw;
+}
